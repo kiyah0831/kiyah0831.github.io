@@ -41,6 +41,7 @@ var Camryn_Marker = L.marker([13.9094, -60.9789], {
 Camryn_Marker.bindPopup("Camryn says Hello from St. Lucia!");
 
 // Section 002 Markers
+
 var Istar_Marker = L.marker([21.3891, 39.8579], {
 	title: "Istar wants to travel to Mecca"
 });
